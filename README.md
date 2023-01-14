@@ -1,11 +1,11 @@
 <center><h1>ОТЧЁТЫ ОБ ОСТРОВАХ</h1></center>
 
 * Любую ошибку или вопрос по варпам, вы можете задать здесь:
-[скайблок острова](https://github.com/AWRLD/skyblock_bug-tracker/issues) 
+[ссылка](https://github.com/AWRLD/skyblock_bug-tracker/issues) 
 
 > Если у вас есть другой вопрос, то вы можете просмотреть список других баг-трекеров, которые могут вам помочь
 
-* [ссылка](https://github.com/AWRLD/warps_bug-tracker/issues)
+* [варпы](https://github.com/AWRLD/warps_bug-tracker/issues)
 
 * [арены](https://github.com/AWRLD/arenas_bug-tracker/issues)
 
